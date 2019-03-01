@@ -1,1 +1,0 @@
-{"version":3,"sources":["../src/HelloWorld.js"],"names":["HelloWorld","console","log"],"mappings":";;;;;;;;;;IAAaA,U,WAAAA,U;;;;;;;mCAEE;AACPC,oBAAQC,GAAR,CAAY,iBAAZ;AACH","file":"HelloWorld.js","sourcesContent":["export class HelloWorld {\r\n   \r\n    sayHello() {\r\n        console.log(\"Hello Data Crud\");\r\n    }\r\n}\r\n"]}

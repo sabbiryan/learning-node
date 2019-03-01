@@ -1,1 +1,0 @@
-{"version":3,"sources":["../src/HelloDataCrud.1.js"],"names":["HelloDataCrud","console","log"],"mappings":";;;;;;;;;;IAAaA,a,WAAAA,a;;;;;;;mCACE;AACPC,oBAAQC,GAAR,CAAY,iBAAZ;AACH","file":"HelloDataCrud.1.js","sourcesContent":["export class HelloDataCrud {\r\n    sayHello() {\r\n        console.log(\"Hello Data Crud\");\r\n    }\r\n}\r\n"]}
