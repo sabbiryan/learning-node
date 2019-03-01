@@ -9,6 +9,12 @@
 ### build
 <ul>
   <li>npm run compile</li>  
+  <li>npm build</li>  
+</ul>
+
+### live server
+<ul>
+  <li>node .compiles/server.js</li>  
 </ul>
 
 
