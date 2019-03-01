@@ -14,7 +14,8 @@
 
 ### live server
 <ul>
-  <li>node .compiles/server.js</li>  
+  <li>node .compiles/server.js</li>
+  <li>npm start</li> 
 </ul>
 
 
