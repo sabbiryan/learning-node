@@ -6,6 +6,8 @@ import { UserService } from "../services/user-service";
 export class UsersRouter {
 
     constructor(config) {
+        if (!config) throw new Error("Config not defined");
+        
         this.config = config;
         this.userService = config.getService("UserService");
         if (!this.userService) throw Error("UserService not found");
