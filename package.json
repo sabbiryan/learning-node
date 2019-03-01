@@ -22,7 +22,8 @@
   },
   "scripts": {
     "test": ".\\node_modules\\.bin\\jasmine",
-    "compile": "./node_modules/.bin/babel src --out-dir .compiled --source-maps --watch"
+    "compile": "./node_modules/.bin/gulp",
+    "start": "node .compiled/server.js"
   },
   "repository": {
     "type": "git",
