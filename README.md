@@ -1,4 +1,4 @@
-# learning-node
+# learning-nodejs
 
 ### install
 <ul>
